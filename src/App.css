@@ -21,33 +21,33 @@
     align-items: center;
 }
 
-.cart .item {
+.item {
     width: 50%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
-.cart .item h3 {
+.item h3 {
     width: 50%;
 }
 
-.cart .item p {
+.item p {
     width: 20%;
 }
 
-.cart .cart-bottom {
+.cart-bottom {
     width: 50%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
-.cart .cart-bottom h3 {
+.cart-bottom h3 {
     width: 50%;
 }
 
-.cart .cart-bottom p {
+.cart-bottom p {
     width: 20%;
 }
 
