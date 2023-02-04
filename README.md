@@ -17,6 +17,6 @@
 
 -   use two hook
 
-# Action trong redux đơn giản là một object trả về { type, payload } hoặc những thông tin khác
+-   Action trong redux đơn giản là một object trả về { type, payload } hoặc những thông tin khác
 
-# Action creators là một function nhận vào tham số và tạo ra một action trả về tham số nhận vào và những thông tin khác chẳng hạn như type
+-   Action creators là một function nhận vào tham số và tạo ra một action trả về tham số nhận vào và những thông tin khác chẳng hạn như type
